@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanzhar 
 
-<!--
-**sssqwead/sssqwead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Python Developer** | 📊 Beginner AI enthusiast | 🎓 Student in the UK university  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently learning **Python, Databases, Sales, Personal Blogging and AI development**  
+- 🏋️ Athlete and interested in building discipline through coding   
+- 🎯 Goal: I'll keep it secret
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, HTML/CSS (basics)  
+- **Databases:** SQLite, Google Sheets integration  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📂 Featured Projects
+- [🎓 School Management System](https://github.com/yourusername/school-management-system)  
+  *A Python + SQLite project to manage students, teachers, courses, and registrations.*  
+
+---
+
+### 📫 Contact Me
+- ✉️ Email: sanzhar.maksat91@gmail.com  
+- 🌐 LinkedIn: www.linkedin.com/in/sanzhar-maksat-5496a533b
+- 🐙 GitHub: [sssqwead](https://github.com/sssqwead)  
+
+---
+
+⭐ *“Code, learn, and grow every day.”*  
+
